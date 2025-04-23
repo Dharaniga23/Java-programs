@@ -14,5 +14,8 @@ public class gui {
 
         int height = Integer.parseInt(JOptionPane.showInputDialog("Enter your height"));
         JOptionPane.showMessageDialog(null,"You are "+height+" cm tall");
+
+        int weight = Integer.parseInt(JOptionPane.showInputDialog("Enter your weight"));
+        JOptionPane.showMessageDialog(null,"You are "+weight+" kg");
     }
 }
