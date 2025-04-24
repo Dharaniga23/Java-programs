@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="61ce7e69-20d3-4e29-9383-b1dacefe0cd5" name="Changes" comment="changes made">
+      <change afterPath="$PROJECT_DIR$/random.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-programs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-programs/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-programs/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-programs/myjava.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-programs/out/production/Java-programs/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-programs/out/production/Java-programs/.idea/Java-programs.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-programs/out/production/Java-programs/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-programs/out/production/Java-programs/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-programs/out/production/Java-programs/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Dharaniga23&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Dharaniga23/Java-programs.git&quot;,
+    &quot;accountId&quot;: &quot;9ceeff09-3188-4f3a-9fca-76bb743cc7a7&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2w8NfduMIzGEmYgGmaET6QRJTaZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.gui.executor": "Run",
+    "Application.myjava.executor": "Run",
+    "Application.random.executor": "Run",
+    "Application.sample.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/dhara/OneDrive/Desktop/Java-programs",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61ce7e69-20d3-4e29-9383-b1dacefe0cd5" name="Changes" comment="" />
+      <created>1745419345379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745419345379</updated>
+    </task>
+    <task id="LOCAL-00001" summary="changes made">
+      <option name="closed" value="true" />
+      <created>1745420429139</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745420429139</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changes made" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes made" />
+  </component>
+</project>
