@@ -9,7 +9,7 @@ public class random {
 
         Random random = new Random();
 
-        num1 = random.nextInt();
+        num1 = random.nextInt(20,40);
         num2 = random.nextDouble();
         num3 = random.nextInt(1,600);
 
