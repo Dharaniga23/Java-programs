@@ -5,21 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61ce7e69-20d3-4e29-9383-b1dacefe0cd5" name="Changes" comment="changes made">
-      <change afterPath="$PROJECT_DIR$/random.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java-programs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-programs/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-programs/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-programs/myjava.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-programs/out/production/Java-programs/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-programs/out/production/Java-programs/.idea/Java-programs.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-programs/out/production/Java-programs/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-programs/out/production/Java-programs/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-programs/out/production/Java-programs/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/numguess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-programs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-programs/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-programs/random.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-programs/random.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-programs/sample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-programs/sample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/sample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Project Files" color="Violet" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -54,23 +52,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.gui.executor": "Run",
-    "Application.myjava.executor": "Run",
-    "Application.random.executor": "Run",
-    "Application.sample.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/dhara/OneDrive/Desktop/Java-programs",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.compound_interest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.gui.executor&quot;: &quot;Run&quot;,
+    &quot;Application.myjava.executor&quot;: &quot;Run&quot;,
+    &quot;Application.random.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sample.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dhara/OneDrive/Desktop/Java-programs&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="61ce7e69-20d3-4e29-9383-b1dacefe0cd5" name="Changes" comment="" />
